@@ -1,0 +1,2 @@
+# Density-Based-Smart-traffic-using-Canny-Edge-Detection
+The Density-Based Smart Traffic Control System Using Canny Edge Detection is an innovative approach to solving the persistent problem of urban traffic congestion. This project aims to develop an intelligent traffic signal management system that dynamically adjusts green light durations based on the real-time density of vehicles on the road. 
