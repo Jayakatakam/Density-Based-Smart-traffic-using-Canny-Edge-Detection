@@ -193,7 +193,11 @@ Practical problem-solving skills
 
 
 ---
+🤝 Connect with Me 📬 Email: kamjaya1703@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/jaya-lakshmi-katakam-b40258299
 
+🔗 GitHub: https://github.com/Jayakatakam
+
+🌐 Portfolio: https://portfolio-jaya.lovable.app/ 🧠 “Technology isn’t just about building tools — it’s about building futures.”
 ⭐ If you like this project, give it a star!
 
 ---
